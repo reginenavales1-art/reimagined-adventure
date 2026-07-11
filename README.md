@@ -9,7 +9,7 @@ My birthday is on November 6, 2007.
 About Me
 I am a hardworking and friendly student. I enjoy learning new things and improving my computer skills.
 
-My Hobbies and Interests
+MY HOBBIES AND INTERESTS
 
 •Playing online games
 •Listening to music
@@ -17,36 +17,40 @@ My Hobbies and Interests
 •Learning HTML
 •Playing basketball
 
-My Top 5 Favorite Foods
+MY TOP 5 FAVORITES FOODS 
 •Fried Chicken
 •Adobo
 •Pizza
 •Burger
 •Ice Cream
-My Favorite Things
+
+MT FAVORITE THINGS 
 My favorite subject is Computer Programming.
 
 My favorite drink is Water.
 
-My Educational Goals
+MY EDUCATIONAL GOALS
 Improve my coding skills.
 Learn HTML, CSS, and JavaScript.
 Become a web developer.
-My Daily Routine
+
+MY DAIYLY ROUTINE 
 Wake up early.
 Go to school.
 Study my lessons.
 Do my assignments.
 Sleep early.
-My Countdown to Success
+
+MY COUNTDOWN TO SUCCESS 
 Graduate from Senior High School.
 Finish college.
 Achieve my dream career.
-My Dream Career
+
+MY DREAM CAREER 
 I want to become a software engineer because I love technology and programming.
 
-Fun Facts About Me
+FUN FACTS ABOUT ME
 I enjoy helping my classmates and learning new computer skills.
 
-My Personal Motto
+MY PERSONAL MOTTO
 "Success comes to those who never give up."
