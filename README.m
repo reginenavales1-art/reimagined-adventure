@@ -1,6 +1,6 @@
 Regine Lavador 
 
-Personal Information
+MY PERSONAL INFORMATION 
 My name is Regine Lavador.
 
 I am a Grade 11 ICT student.
